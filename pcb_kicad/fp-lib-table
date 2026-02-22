@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "diode_maybe")(type "KiCad")(uri "/home/cloudglides/Downloads/SMF05CT1G (1)")(options "")(descr ""))
+)
