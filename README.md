@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=AxE4TltnvjI">BUILD!(not yet) • </a>
-  <a href="https://cad.onshape.com/documents/4b9bd96242774528e3dbc81e/w/aa711833ecff2e684d7276d3/e/eb8acac42691808165e34fed?renderMode=0&uiState=699b2bc7a6183d5263c8f19e">OnShape timeline</a>
+  <a href="https://cad.onshape.com/documents/4b9bd96242774528e3dbc81e/w/aa711833ecff2e684d7276d3/e/eb8acac42691808165e34fed?renderMode=0&uiState=699b2c2ea6183d5263c8f278">OnShape timeline</a>
 </p>
 
 <p align="center">
@@ -89,3 +89,4 @@ In short: <b>copy, earn, remix, but always credit the original creator.</b>
 </p>
 
 </details>
+
