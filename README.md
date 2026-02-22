@@ -1,3 +1,6 @@
+<p align="center">
+<img  width="689" src="https://github.com/user-attachments/assets/73a23964-c1a8-419f-9498-2f713d5313b7" />
+</p>
 <h1 align="center">BAREHUB</h1>
 
 <p align="center">
@@ -89,5 +92,6 @@ In short: <b>copy, earn, remix, but always credit the original creator.</b>
 </p>
 
 </details>
+
 
 
