@@ -1,17 +1,12 @@
-<img width="689" src="https://github.com/user-attachments/assets/73a23964-c1a8-419f-9498-2f713d5313b7" />
-
 <h1 align="center">BAREHUB</h1>
 
-
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=AxE4TltnvjI">BUILD!(not yet)</a>
-
+  <a href="https://www.youtube.com/watch?v=AxE4TltnvjI">BUILD!(not yet) • </a>
+  <a href="https://cad.onshape.com/documents/4b9bd96242774528e3dbc81e/w/aa711833ecff2e684d7276d3/e/eb8acac42691808165e34fed?renderMode=0&uiState=699b2bc7a6183d5263c8f19e">OnShape timeline</a>
 </p>
 
 <p align="center">
-  A compact USB hub PCB featuring the <b>FE1.1S IC</b>, with <b>1 upstream USB-C port</b> 
-  and <b>4 downstream USB-A ports</b>, designed for reliable high-speed USB 2.0 connectivity 
-  in a small form factor.
+   A very very cool minimal USB hub featuring 1 USB-C in, 4 USB-A out, small PCB, fast USB 2.0.
 </p>
 
 <details>
@@ -35,7 +30,6 @@
 
 <br>
 
-
 <details>
 <summary><strong>PCB / Schematic</strong></summary>
 
@@ -49,6 +43,49 @@
 
 <p align="center">
   <img width="900" src="https://github.com/user-attachments/assets/e086b3f1-0098-4830-8901-aa6175bae085" />
+</p>
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>Build Instructions</strong></summary>
+
+<br>
+
+<p>
+  To assemble the BAREHUB PCB:
+</p>
+
+<ol>
+  <li>Apply solder paste to the pads of the PCB.</li>
+  <li>Place all components (FE1.1S IC, USB ports, capacitors, etc.) onto their pads.</li>
+  <li>Use a hotplate(reccomended) or hot-air gun to reflow the solder paste and solder components down.</li>
+  <li>Inspect solder joints and touch up any misaligned components(dont burn em duh) if needed.</li>
+</ol>
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>License</strong></summary>
+
+<br>
+
+<p>
+This project is licensed under a <b>Creative Commons Attribution-NonCommercial-ShareAlike style license with commercial permission</b>:
+</p>
+
+<ul>
+  <li>You are free to copy, modify, and sell products based on this design.</li>
+  <li>You <b>must credit "BAREHUB by cloudglides"</b> wherever the design is used.</li>
+  <li>Derivatives are allowed and can be sold, but attribution is required.</li>
+</ul>
+
+<p>
+In short: <b>copy, earn, remix, but always credit the original creator.</b>
 </p>
 
 </details>
